@@ -815,7 +815,7 @@ There are five `{name}` of presets:
 
   <!-- panvimdoc-ignore-end -->
 
-  Put all windows' labels in active tabpage at end of whold tabline.
+  Put all windows' labels in active tabpage at end of the tabline.
 
 - active_wins_at_end
 
